@@ -5,7 +5,7 @@ Este repositório contém recursos e guias detalhados sobre como utilizar o Zoho
 
 Estou descobrindo os segredos do Zoho Analytics, uma plataforma incrível para transformar dados em insights visuais. Este repositório é um reflexo do meu progresso e aprendizado.
 
-![Zoho Analytics Logo](![logo](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/b31bf24b-bc0a-46c0-82e6-8c179eb62004))
+![Zoho Analytics Logo](![logo](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/b31bf24b-bc0a-46c0-82e6-8c179eb62004.png))
 
 ## Conteúdo
 
@@ -29,13 +29,13 @@ Na pasta `recursos`, você encontrará:
 
 Explorando como navegar pela plataforma e usar suas principais funcionalidades.
 
-![Fluxo de Trabalho](![image](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/41ac0b36-35ae-431b-bb10-d43d4895125f))
+![Fluxo de Trabalho](![image](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/41ac0b36-35ae-431b-bb10-d43d4895125f.png))
 
 ### 2. Workspace
 
 Descubra o espaço de trabalho personalizado onde você pode criar e organizar relatórios e dashboards.
 
-![Workspace](![image](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/84e419e1-f0a6-457b-9d69-c5b202709dca)) - criando dashboard
+![Workspace](![image](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/84e419e1-f0a6-457b-9d69-c5b202709dca.png)) - criando dashboard
 
 ### 3. Reports
 
