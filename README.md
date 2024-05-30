@@ -29,13 +29,14 @@ Na pasta `recursos`, você encontrará:
 
 Explorando como navegar pela plataforma e usar suas principais funcionalidades.
 
-![Fluxo de Trabalho](![image](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/41ac0b36-35ae-431b-bb10-d43d4895125f.png))
+![Captura de tela 2024-05-30 134915](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/1f964382-ae96-40fe-b122-b899dda4be24)
+
 
 ### 2. Workspace
 
 Descubra o espaço de trabalho personalizado onde você pode criar e organizar relatórios e dashboards.
 
-![Workspace](![image](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/84e419e1-f0a6-457b-9d69-c5b202709dca.png)) - criando dashboard
+![Captura de tela 2024-05-30 135124](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/a7c2cd9f-a4e2-4139-8c0b-1928f4d01ab6) - criando dashboard
 
 ### 3. Reports
 
