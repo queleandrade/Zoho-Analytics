@@ -36,13 +36,13 @@ Explorando como navegar pela plataforma e usar suas principais funcionalidades.
 
 Descubra o espaço de trabalho personalizado onde você pode criar e organizar relatórios e dashboards.
 
-![Captura de tela 2024-05-30 135124](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/a7c2cd9f-a4e2-4139-8c0b-1928f4d01ab6) - criando dashboard
+![image](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/b7d9f435-4d5e-485d-922b-f8c369b7422e)
 
 ### 3. Reports
 
 Aprenda a transformar dados brutos em relatórios visuais que fazem sentido.
 
-![image](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/6e03f179-30b4-42b5-89b5-45456e20e1cc)
+![image](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/51e0f9f7-3fcf-44c6-b9fc-26c6b056c904)
 
 ### 4. Dashboard
 
