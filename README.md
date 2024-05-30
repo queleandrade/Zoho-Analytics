@@ -42,7 +42,7 @@ Descubra o espaço de trabalho personalizado onde você pode criar e organizar r
 
 Aprenda a transformar dados brutos em relatórios visuais que fazem sentido.
 
-![Reports](link-para-imagem.png)  - criando
+![image](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/6e03f179-30b4-42b5-89b5-45456e20e1cc)
 
 ### 4. Dashboard
 
