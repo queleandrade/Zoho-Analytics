@@ -12,7 +12,7 @@ O Zoho Analytics é uma plataforma moderna de BI (Business Intelligence) e anál
 
 ## Transformando Dados em Insights
 
-Com o Zoho Analytics, podemos transformar dados brutos em relatórios e painéis detalhados. Isso nos ajuda a acompanhar métricas importantes, identificar tendências, detectar anomalias e até prever o futuro!
+Com o Zoho Analytics, podemos transformar dados brutos em relatórios e painéis detalhados. Isso nos ajuda a acompanhar métricas importantes, identificar tendências, detectar anomalias.
 
 ## Funcionalidades Principais
 
