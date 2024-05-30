@@ -10,11 +10,12 @@ Para começar a usar o Zoho Analytics, você precisa criar uma conta gratuita. S
 
 1. Acesse o site oficial do Zoho Analytics clicando no link a seguir: [Zoho Analytics](https://www.zoho.com/pt-br/analytics/).
    
-   ![alt text](image-1.png)
+  ![Captura de tela 2024-05-30 142001](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/4e454331-8930-4f7d-b116-a8b8ad7746f8)
 
 2. Clique no botão "criar conta grátis" na página inicial.
    
-   ![alt text](image-2.png)
+   ![Captura de tela 2024-05-30 142143](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/35117edb-0aed-4529-a0ae-5a8a2089f188)
+
 
 3. Preencha com e-mail e crie uma senha.
 
@@ -24,7 +25,8 @@ Para começar a usar o Zoho Analytics, você precisa criar uma conta gratuita. S
 
 6. Uma vez confirmada, você será redirecionado para a página inicial do Zoho Analytics, que deve se parecer com a imagem abaixo:
 
-   ![site principal](image.png)
+  ![Captura de tela 2024-05-30 141736](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/26c71ece-d40b-45fb-8905-af83d3989aa9)
+
 
 
 
