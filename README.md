@@ -5,7 +5,7 @@ Este repositório contém recursos e guias detalhados sobre como utilizar o Zoho
 
 Estou descobrindo os segredos do Zoho Analytics, uma plataforma incrível para transformar dados em insights visuais. Este repositório é um reflexo do meu progresso e aprendizado.
 
-![Zoho Analytics Logo](![logo](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/b31bf24b-bc0a-46c0-82e6-8c179eb62004.png))
+![logo](https://github.com/queleandrade/Zoho-Analytics/assets/75625651/cd7d5a39-1732-46dc-bcdd-875883882542)
 
 ## Conteúdo
 
