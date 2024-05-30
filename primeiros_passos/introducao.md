@@ -2,7 +2,7 @@
 
 ## O que é o Zoho Analytics?
 
-Oi pessoal! Neste repositório, vou compartilhar minha jornada de aprendizado com o Zoho Analytics. O Zoho Analytics é uma plataforma moderna de BI (Business Intelligence) e análise de autoatendimento que permite conectar, preparar e analisar dados, criando visualizações incríveis e descobrindo insights em poucos minutos.
+O Zoho Analytics é uma plataforma moderna de BI (Business Intelligence) e análise de autoatendimento que permite conectar, preparar e analisar dados, criando visualizações incríveis e descobrindo insights em poucos minutos.
 
 ## Principais Características
 
