@@ -40,8 +40,4 @@ Com o Zoho Analytics, podemos transformar dados brutos em relatórios e painéis
 
 - **BI Integrado**: A plataforma permite criar e incorporar análises com pouco ou nenhum código, e configurar portais de análise personalizados.
 
-## Conclusão
 
-Estou animado para explorar o Zoho Analytics e ver como ele pode ajudar a transformar dados em informações valiosas. Acompanhe este repositório para tutoriais, exemplos e mais insights sobre essa poderosa ferramenta de BI.
-
-Vamos juntos aprender e descobrir o poder do Zoho Analytics!
